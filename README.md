@@ -17,6 +17,22 @@ The main goal of this project is to explore student performance, identify meanin
 
 ---
 
+## 📊 Dashboard
+
+The final dashboard includes visualizations for:
+
+- Student GPA Distribution
+- Average GPA by Gender
+- Average GPA by Parental Education Level
+- Math Score vs Reading Score
+
+Example:
+
+
+![Dashboard](images/image1.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python
@@ -53,23 +69,6 @@ The project includes analyses such as:
 - Average GPA by parental education level
 - Relationship between Math and Reading scores
 - Dashboard summarizing the key findings
-
----
-
-## 📊 Dashboard
-
-The final dashboard includes visualizations for:
-
-- Student GPA Distribution
-- Average GPA by Gender
-- Average GPA by Parental Education Level
-- Math Score vs Reading Score
-
-Example:
-
-
-![Dashboard](images/image1.png)
-
 
 ---
 
