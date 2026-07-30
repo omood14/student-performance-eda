@@ -4,6 +4,8 @@ An Exploratory Data Analysis (EDA) project on the **Students Performance** datas
 
 The main goal of this project is to explore student performance, identify meaningful patterns, and visualize relationships between different educational factors.
 
+## 📊 Project Dashboard
+
 ![Dashboard](images/image1.png)
 
 ---
@@ -55,17 +57,6 @@ The project includes analyses such as:
 - Average GPA by parental education level
 - Relationship between Math and Reading scores
 - Dashboard summarizing the key findings
-
----
-
-## 📊 Dashboard
-
-The final dashboard includes visualizations for:
-
-- Student GPA Distribution
-- Average GPA by Gender
-- Average GPA by Parental Education Level
-- Math Score vs Reading Score
 
 ---
 
