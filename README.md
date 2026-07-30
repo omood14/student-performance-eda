@@ -58,8 +58,6 @@ The project includes analyses such as:
 
 ---
 
----
-
 ## 📊 Dashboard
 
 The final dashboard includes visualizations for:
